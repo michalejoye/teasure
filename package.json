@@ -1,0 +1,22 @@
+{
+  "name": "discordgame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "reflect-metadata": "^0.1.12",
+    "sequelize": "^4.38.0",
+    "sequelize-typescript": "^0.6.5"
+  },
+  "devDependencies": {
+    "discord.js": "^11.3.2",
+    "karma-typescript": "^3.0.12",
+    "typescript": "^2.9.2"
+  }
+}
